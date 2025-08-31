@@ -121,10 +121,10 @@ body {
     --offline: var(--text-4); /* change to #82838b for default offline color */
 
     /* border colors */
-    --border-light: var(--hover); /* general light border color */
-    --border: var(--active); /* general normal border color */
-    --border-hover: var(--accent-2); /* border color of panels when hovered */
-    --button-border: hsl(220, 0%, 100%, 0.1); /* neutral border color of buttons */
+    --border-light: var(--green-2); /* general light border color */
+    --border: var(--green-2); /* general normal border color */
+    --border-hover: var(--green-1); /* border color of panels when hovered */
+    --button-border: var(--green-2); /* neutral border color of buttons */
 
     /* firesky colors from alacritty.toml */
     --black: #1a2626;
