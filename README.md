@@ -1,6 +1,6 @@
 # Firesky
 
-Firesky is a simple, elegant, and dark theme for Neovim inspired by the dramatic contrast of a silhouetted landscape against a fire-lit sky. It's designed for those moments of deep focus, when the world fades away and all that's left is you and your code.
+Firesky is a simple, elegant, and dark theme for Omarchy inspired by the dramatic contrast of a silhouetted landscape against a fire-lit sky. It's designed for those moments of deep focus, when the world fades away and all that's left is you and your code.
 
 <p align="center">
   <img src="firesky.png" alt="Firesky Logo">
