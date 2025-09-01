@@ -1,16 +1,3 @@
-/**
- * @name Firesky
- * @description A simple, elegant, and dark theme inspired by the dramatic contrast of a silhouetted landscape against a fire-lit sky. Designed for those moments of deep focus.
- * @author bjarneo
- * @version 1.0.0
- * @website https://github.com/bjarneo/omarchy-firesky-theme
- * @source https://github.com/bjarneo/omarchy-firesky-theme/blob/main/firesky.theme.css
- * @authorLink https://x.com/iamdothash
-*/
-
-/* import the theme */ 
-@import url('https://raw.githubusercontent.com/bjarneo/omarchy-firesky-theme/refs/heads/main/vesktop/firesky.theme.css')
-/* import theme modules */
 @import url('https://refact0r.github.io/system24/build/system24.css');
 
 body {
