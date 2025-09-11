@@ -1,32 +1,32 @@
 [colors]
 
 [colors.normal]
-black   = "#1a2626"  # Deep, dark teal from the sky
-red     = "#ff6b42"  # The vibrant orange of the sun
-green   = "#4a5f61"  # Muted green-teal from the upper sky
-yellow  = "#f2a67a"  # Softer orange from the sun's reflection
-blue    = "#5a7578"  # Muted blue from the distant clouds
-magenta = "#b8937a"  # Dusty rose from the horizon
-cyan    = "#6d9e9d"  # A calm, desaturated cyan from the sky
-white   = "#d4ccc4"  # Light tone from the bright clouds
+black   = "#0f1a1a"
+red     = "#ff4d1a"
+green   = "#1a7578"
+yellow  = "#ff8f40"
+blue    = "#2a858c"
+magenta = "#d4803d"
+cyan    = "#40c4c0"
+white   = "#e8ddd5"
 
 [colors.bright]
-black   = "#5e7171"  # Brighter teal-gray from the sky
-red     = "#ff9b71"  # A brighter, more intense sun orange
-green   = "#7a9d9b"  # Brighter, more lively teal
-yellow  = "#ffc294"  # A luminous, pale orange
-blue    = "#9cb6b9"  # A clearer, lighter sky blue
-magenta = "#d5afa2"  # A brighter, warmer rose
-cyan    = "#a3c9c8"  # A more prominent, airy cyan
-white   = "#f0e8e0"  # A soft, warm off-white
+black   = "#4d7575"
+red     = "#ff7540"
+green   = "#40d4d0"
+yellow  = "#ffad52"
+blue    = "#52d9dd"
+magenta = "#ffc275"
+cyan    = "#70f0ed"
+white   = "#fff8f0"
 
 [colors.cursor]
 cursor = '#f47a4d'   # Vibrant sun orange for high visibility
 text = '#0c0c0c'     # The darkest silhouette color for text
 
 [colors.primary]
-background = '#080808' # The deep, black silhouette of the ground
-foreground = '#e8e0d8' # Soft light from the clouds for text
+background = '#040404'
+foreground = '#f5f0e8'
 
 [colors.selection]
 background = '#4d6161' # A mid-tone teal from the sky
