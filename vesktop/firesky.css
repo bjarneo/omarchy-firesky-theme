@@ -74,17 +74,17 @@ body {
 
     /* text colors */
     --text-0: var(--bg-4); /* text on colored elements */
-    --text-1: #fff8f0; /* other normally white text */
-    --text-2: #f5f0e8; /* headings and important text */
-    --text-3: #e8ddd5; /* normal text */
-    --text-4: #f5f0e8; /* icon buttons and channels */
-    --text-5: #52d9dd; /* muted channels/chats and timestamps */
+    --text-1: #f0e8e0; /* other normally white text */
+    --text-2: #e0d8d0; /* headings and important text */
+    --text-3: #d8d0c8; /* normal text */
+    --text-4: #e0d8d0; /* icon buttons and channels */
+    --text-5: #52c9cd; /* muted channels/chats and timestamps */
 
     /* background and dark colors */
-    --bg-1: #4d7575; /* dark buttons when clicked */
-    --bg-2: #4d7575; /* dark buttons */
-    --bg-3: #0f1a1a; /* spacing, secondary elements */
-    --bg-4: #040404; /* main background color */
+    --bg-1: #4d6b6b; /* dark buttons when clicked */
+    --bg-2: #4d6b6b; /* dark buttons */
+    --bg-3: #1a2424; /* spacing, secondary elements */
+    --bg-4: #0f0f0f; /* main background color */
     --hover: oklch(54% 0 0 / 0.1); /* channels and buttons when hovered */
     --active: oklch(54% 0 0 / 0.2); /* channels and buttons when clicked or selected */
     --active-2: oklch(54% 0 0 / 0.3); /* extra state for transparent buttons */
@@ -116,39 +116,39 @@ body {
     --button-border: var(--green-2); /* neutral border color of buttons */
 
     /* firesky colors from alacritty.toml */
-    --black: #0f1a1a;
-    --red-1: #ff7540;
-    --red-2: #ff4d1a;
-    --red-3: #ff4d1a;
-    --red-4: #ff4d1a;
-    --red-5: #ff4d1a;
+    --black: #1a2424;
+    --red-1: #e66b40;
+    --red-2: #e6441a;
+    --red-3: #e6441a;
+    --red-4: #e6441a;
+    --red-5: #e6441a;
 
-    --green-1: #40d4d0;
-    --green-2: #1a7578;
-    --green-3: #1a7578;
-    --green-4: #1a7578;
-    --green-5: #1a7578;
+    --green-1: #40c4c0;
+    --green-2: #1a6b6e;
+    --green-3: #1a6b6e;
+    --green-4: #1a6b6e;
+    --green-5: #1a6b6e;
 
-    --blue-1: #52d9dd;
-    --blue-2: #2a858c;
-    --blue-3: #2a858c;
-    --blue-4: #2a858c;
-    --blue-5: #2a858c;
+    --blue-1: #52c9cd;
+    --blue-2: #2a7a80;
+    --blue-3: #2a7a80;
+    --blue-4: #2a7a80;
+    --blue-5: #2a7a80;
 
-    --yellow-1: #ffad52;
-    --yellow-2: #ff8f40;
-    --yellow-3: #ff8f40;
-    --yellow-4: #ff8f40;
-    --yellow-5: #ff8f40;
+    --yellow-1: #e6a052;
+    --yellow-2: #e68040;
+    --yellow-3: #e68040;
+    --yellow-4: #e68040;
+    --yellow-5: #e68040;
 
-    --purple-1: #ffc275;
-    --purple-2: #d4803d;
-    --purple-3: #d4803d;
-    --purple-4: #d4803d;
-    --purple-5: #d4803d;
+    --purple-1: #e6b375;
+    --purple-2: #c4753d;
+    --purple-3: #c4753d;
+    --purple-4: #c4753d;
+    --purple-5: #c4753d;
 
-    --cyan-1: #70f0ed;
-    --cyan-2: #40c4c0;
+    --cyan-1: #70e0dd;
+    --cyan-2: #40b8b4;
 }
 
 

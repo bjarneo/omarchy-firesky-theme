@@ -1,33 +1,33 @@
 [colors]
 
 [colors.normal]
-black   = "#0f1a1a"
-red     = "#ff4d1a"
-green   = "#1a7578"
-yellow  = "#ff8f40"
-blue    = "#2a858c"
-magenta = "#d4803d"
-cyan    = "#40c4c0"
-white   = "#e8ddd5"
+black   = "#1a2424"
+red     = "#e6441a"
+green   = "#1a6b6e"
+yellow  = "#e68040"
+blue    = "#2a7a80"
+magenta = "#c4753d"
+cyan    = "#40b8b4"
+white   = "#d8d0c8"
 
 [colors.bright]
-black   = "#4d7575"
-red     = "#ff7540"
-green   = "#40d4d0"
-yellow  = "#ffad52"
-blue    = "#52d9dd"
-magenta = "#ffc275"
-cyan    = "#70f0ed"
-white   = "#fff8f0"
+black   = "#4d6b6b"
+red     = "#e66b40"
+green   = "#40c4c0"
+yellow  = "#e6a052"
+blue    = "#52c9cd"
+magenta = "#e6b375"
+cyan    = "#70e0dd"
+white   = "#f0e8e0"
 
 [colors.cursor]
-cursor = '#f47a4d'   # Vibrant sun orange for high visibility
-text = '#0c0c0c'     # The darkest silhouette color for text
+cursor = '#e66a4d'   # Slightly muted sun orange
+text = '#1a1a1a'     # Lighter dark text
 
 [colors.primary]
-background = '#040404'
-foreground = '#f5f0e8'
+background = '#0f0f0f'
+foreground = '#e0d8d0'
 
 [colors.selection]
-background = '#4d6161' # A mid-tone teal from the sky
-text = '#e0d8d0'     # Bright but soft off-white text
+background = '#4d5a5a' # Slightly darker selection
+text = '#d0c8c0'     # Slightly darker text
